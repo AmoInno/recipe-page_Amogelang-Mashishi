@@ -1,52 +1,67 @@
-# Frontend Mentor - Recipe page
+# Frontend Mentor - Recipe page solution
 
-![Design preview for the Recipe page coding challenge](./design/desktop-preview.jpg)
+This is a solution to the [Recipe page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-## Welcome! 👋
+## Table of contents
 
-Thanks for checking out this front-end coding challenge.
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-**To do this challenge, you need a basic understanding of HTML and CSS.**
+**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-## The challenge
+## Overview
 
-Your challenge is to build out this recipe page and get it looking as close to the design as possible.
+### Screenshot of solution
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+![](/project/Screenshot.png)
 
-## Where to find everything
+### Links
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
+- Solution URL: [https://github.com/AmoInno/recipe-page_Amogelang-Mashishi.git]
+- Live site URL: [http://127.0.0.1:5500/]
 
-The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
+## My process
 
-All the required assets for this project are in the `/assets` folder. The images are already exported for the correct screen size and optimized.
+I mapped out the html structure first and then added it before styling. This was easier for me before styling as it gave me the backbone of the project. I did default styling on the largest screen first then when everything was properly styled and placed in the larger screens, I made alterations to the CSS properties so that it shows properly when the screen sizes decrease.
 
-We also include variable and static font files for the required fonts for this project. You can choose to either link to Google Fonts or use the local font files to host the fonts yourself. Note that we've removed the static font files for the font weights that aren't needed for this project.
+### Built with
 
-There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Media properties
 
-## Building your project
+### What I learned
 
-Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
+- This project helped me alot with responsive design. The method that I used proved to be very efficient in terms of responsive design.
+- I split the project in smaller sections and that helped me to work efficiently and was not overwhelming.
+This project taught me to breakdown my projects into smaller parts.
+- It deepened my understanding of CSS properties and HTML structure, providing me an opportunity to apply and practice the knowledge that I have accquired in a more practical setting.
 
-1. Initialize your project as a public repository on [GitHub](https://github.com/). Creating a repo will make it easier to share your code with the community if you need help. If you're not sure how to do this, [have a read-through of this Try Git resource](https://try.github.io/).
-2. Configure your repository to publish your code to a web address. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are a number of ways to do this, and we provide some recommendations below.
-3. Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes to create reusable styles.
-4. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
-5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
-6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
+### Continued development
 
-## Create a custom `README.md`
+- Responsive design: I would like to continue to get better in responsive design. Ensuring that the websites that I make is able to work on all screen sizes can be very tricky. Knowing which properties to alter and when is a skill that I would like to continue to master. 
 
-We strongly recommend overwriting this `README.md` with a custom one. We've provided a template inside the [`README-template.md`](./README-template.md) file in this starter code.
+- Time-management: I would like to continue to improve the time that I take to work on projects.That is something that will come with time but definately something that I would like to improve.
 
-The template provides a guide for what to add. A custom `README` will help you explain your project and reflect on your learnings. Please feel free to edit our template as much as you like.
+- Debugging: Improve my debugging process. I tend to spend a long time debugging and would like to improve that.
 
-Once you've added your information to the template, delete this file and rename the `README-template.md` file to `README.md`. That will make it show up as your repository's README file.
+### Useful resources
 
-## Submitting your solution
+I watched alot of YouTube videos (various creators) and used these documents alot 
+- [https://developer.mozilla.org/en-US/]
+- [https://www.w3schools.com/]
 
-Submit your solution as a link to your forked Github project.
+## Author
+- GitHub - [https://github.com/AmoInno?tab=repositories]
 
-**Have fun building!** 🚀
